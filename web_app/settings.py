@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'track_web_app.apps.TrackWebAppConfig',
+    'time_tracker.apps.TrackWebAppConfig',
 ]
 
 MIDDLEWARE = [
